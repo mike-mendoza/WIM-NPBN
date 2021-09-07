@@ -1,6 +1,6 @@
 # WIM NPBN GUI
 
-The Graphic User Interface NPBN WIM computes synthetic WIM data. The observations corresponding to April 2013 for three Dutch locations in both the right (-R) and the left (-L) driving directions. The measurements were taken in highways A12 (km 42) Woerden, A15 (km 92) Gorinchem and A16 (km 41) Gravendeel. Additionally an hypothetical highway was created which is a combination of all six available WIM locations in the model. Therefore, each simulated vehicle randomly choose one of the locations to compute the synthetic data.
+The Graphical User Interface NPBN WIM computes synthetic WIM data. The observations corresponding to April 2013 for three Dutch locations in both the right (-R) and the left (-L) driving directions. The measurements were taken in highways A12 (km 42) Woerden, A15 (km 92) Gorinchem and A16 (km 41) Gravendeel. Additionally an hypothetical highway was created which is a combination of all six available WIM locations in the model. Therefore, each simulated vehicle randomly choose one of the locations to compute the synthetic data.
 
 The 26 codes (Vehicle types) used in the GUI WIM consist of a letter and a number that define number of axles. The letter represent the vehicle configurations: Buses (B), Tractor---Semitrailer---Trailer ( R), Tractor---Semitrailer (T), Single unit multi axle vehicle and/or Single unit multi axle vehicle - Semitrailer (V) and Others vehicles (O). For example, a seven axle vehicle with the configuration Tractor---Semitrailer is coded as T7.
 
