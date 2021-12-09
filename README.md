@@ -10,7 +10,7 @@ In the main window of the GUI. The user can choose between the 26 vehicle types 
 There are, three main check boxes: 1) vehicle type subset, 2) correlation matrix plot and 3) Bayesian network plot.
 
 1. If the _vehicle type subset_ check box is selected, the user needs to select the desired vehicles types and provide their corresponding proportions (or the probability of observing each vehicle type). Otherwise, 26 vehicle types will be used to generate synthetic observations. 
-2. If the _correlation matrix plot_ check box is selected, the rank correlation matrix plot will be shown as a colour map . 
+2. If the _correlation matrix plot_ check box is selected, the rank correlation matrix plot will be shown as a colour map. 
 3. If the _Bayesian network plot_ check box is selected, the Non-Parametric Bayesian Network (NPBN) direct acyclic graph will be shown.
 
 Once all the values are set by pressing the _compute_ button the synthetic WIM observations will be generated and histograms of total vehicle weight and total vehicle length will be shown, as well as, the exceedance probability plots (Fig. 5 and 6).  The computed data can be stored in a CSV file by pressing the _save CSV_ button.  
