@@ -1,6 +1,8 @@
 ## WIM NPBN GUI
 ## A Non-parametric Bayesian Network for multivariate probabilistic modelling of Weigh-in-Motion System Data
 
+The scientific publication supporting this software can be found at https://doi.org/10.1016/j.trip.2022.100552
+
 The Graphical User Interface WIM NPBN computes synthetic Weigh-in-Motion (WIM) data. The synthetic observations are similar to those observed in April 2013 in three Dutch highway WIM locations in both, the right (R) and the left (L), driving directions. The measurements were taken in highways A12 (km 42) Woerden, A15 (km 92) Gorinchem, and A16 (km 41) Gravendeel. Additionally, a hypothetical highway was created which is a combination of all six available WIM locations in the model. Therefore, each simulated vehicle randomly chooses one of the locations to compute the synthetic data.
 
 The 26 codes (Vehicle types) used in the GUI NPBN WIM consist of a letter and a number that define the number of axles. The letter represents the vehicle configurations: Buses (B), Tractor - Semitrailer - Trailer ('R), Tractor - Semitrailer (T), Single-unit multi-axle vehicle and/or Single unit multi-axle vehicle - Semitrailer (V) and Others vehicles (O). For example, a seven-axle vehicle with the configuration Tractor - Semitrailer is coded as T7. 
